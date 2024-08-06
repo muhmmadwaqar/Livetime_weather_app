@@ -31,17 +31,17 @@ The Live Weather App is a web application that displays real-time weather data f
 git clone https://github.com/your-username/live_weather_app.git
 cd live_weather_app
 
-### 2. Create a Virtual Environment
+## 2. Create a Virtual Environment
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ### 3. pip install -r requirements.txt
-### 4 . 4. Configure PostgreSQL
+## 4 . 4. Configure PostgreSQL
 Ensure PostgreSQL is installed and running. Create a database and user for the app
 CREATE DATABASE live_weather_app;
- ###5 Run the Development Server
+ ##5 Run the Development Server
 python manage.py runserver
-### 
-### Additional Instructions
+## 
+## Additional Instructions
 
 1. **Update the Repository URL**:  `https://github.com/muhmmad-waqar/live_weather_app.git` 
 2. **Database Configuration**: Ensure the database settings in the `settings.py` file match your PostgreSQL setup.
