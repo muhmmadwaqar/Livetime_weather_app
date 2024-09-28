@@ -63,20 +63,6 @@ python manage.py runserver
 Contributing
 We welcome contributions from the community! To contribute:
 
-Fork the repository.
-Create a new branch:
-sh
-Copy code
-git checkout -b my-feature-branch
-Make your changes and commit them:
-sh
-Copy code
-git commit -m 'Add new feature'
-Push your changes to the branch:
-sh
-Copy code
-git push origin my-feature-branch
-Submit a pull request for review.
 License
 This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
 
