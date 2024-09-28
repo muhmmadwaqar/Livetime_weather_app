@@ -60,18 +60,18 @@ python manage.py runserver
 - Log in using your superuser account.  
 - Enter a city name to view real-time weather data.  
 
-Contributing
-We welcome contributions from the community! To contribute:
+## Contributing  
+Contributions are welcome! Please open an issue or submit a pull request to enhance this project.  
 
-License
-This project is licensed under the MIT License. For more details, please refer to the LICENSE file.
+## License  
+This project is licensed under the MIT License. See the LICENSE file for details.  
 
-Contact
-For inquiries, support, or feedback, please reach out:
-
-Muhammad Waqar
-Email: itswaqarmalik11@gmail.com
+## Contact  
+For inquiries, support, or feedback, please reach out:  
+**Muhammad Waqar**  
+Email: itswaqarmalik11@gmail.com  
 I welcome any questions or assistance you may need regarding the platform.
 
-This README was generated with ❤️ by Muhammad Waqar
+---
 
+This README was generated with ❤️ by Muhammad Waqar
